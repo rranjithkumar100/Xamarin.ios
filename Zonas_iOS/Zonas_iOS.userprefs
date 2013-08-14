@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone.6.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Zonas_iOS/Zonas_iOSViewController.cs">
+    <Files>
+      <File FileName="Zonas_iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Zonas_iOS/Zonas_iOSViewController.cs" Line="14" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Zonas_iOS" expanded="True">
+            <Node name="References" expanded="True" />
+            <Node name="ComponentReferenceFolder" expanded="True" />
+            <Node name="Imagen4.JPG" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

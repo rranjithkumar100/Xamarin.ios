@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncXamarin", "AsyncXamarin\AsyncXamarin.csproj", "{D5A45438-C896-4016-8CFB-6917C5947FFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5A45438-C896-4016-8CFB-6917C5947FFB}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{D5A45438-C896-4016-8CFB-6917C5947FFB}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{D5A45438-C896-4016-8CFB-6917C5947FFB}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{D5A45438-C896-4016-8CFB-6917C5947FFB}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{D5A45438-C896-4016-8CFB-6917C5947FFB}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D5A45438-C896-4016-8CFB-6917C5947FFB}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D5A45438-C896-4016-8CFB-6917C5947FFB}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D5A45438-C896-4016-8CFB-6917C5947FFB}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D5A45438-C896-4016-8CFB-6917C5947FFB}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D5A45438-C896-4016-8CFB-6917C5947FFB}.Release|iPhone.Build.0 = Release|iPhone
+		{D5A45438-C896-4016-8CFB-6917C5947FFB}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D5A45438-C896-4016-8CFB-6917C5947FFB}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AsyncXamarin\AsyncXamarin.csproj
+	EndGlobalSection
+EndGlobal
