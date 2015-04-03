@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableView_Libros", "TableView_Libros\TableView_Libros.csproj", "{FBDC9F76-7793-4F77-BAA7-C28290FB8743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBDC9F76-7793-4F77-BAA7-C28290FB8743}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{FBDC9F76-7793-4F77-BAA7-C28290FB8743}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{FBDC9F76-7793-4F77-BAA7-C28290FB8743}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{FBDC9F76-7793-4F77-BAA7-C28290FB8743}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{FBDC9F76-7793-4F77-BAA7-C28290FB8743}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{FBDC9F76-7793-4F77-BAA7-C28290FB8743}.Debug|iPhone.Build.0 = Debug|iPhone
+		{FBDC9F76-7793-4F77-BAA7-C28290FB8743}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{FBDC9F76-7793-4F77-BAA7-C28290FB8743}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{FBDC9F76-7793-4F77-BAA7-C28290FB8743}.Release|iPhone.ActiveCfg = Release|iPhone
+		{FBDC9F76-7793-4F77-BAA7-C28290FB8743}.Release|iPhone.Build.0 = Release|iPhone
+		{FBDC9F76-7793-4F77-BAA7-C28290FB8743}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{FBDC9F76-7793-4F77-BAA7-C28290FB8743}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TableView_Libros\TableView_Libros.csproj
+	EndGlobalSection
+EndGlobal
